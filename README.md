@@ -1,4 +1,4 @@
-# ukf_orientation
+# Unscented Kalman Filter for Orientation Tracking
 
 Implementation of Unscented Kalman Filter for estimating the orientation of the quadrotor based on data received from the IMU.
 
